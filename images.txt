@@ -4,7 +4,5 @@ k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
-redis:6.2-alpine
-tensorchord/pgvecto-rs:pg14-v0.2.0
-immich-app/immich-server
-immich-app/immich-machine-learning
+--platform=linux/arm64/v8 redis:6.2-alpine
+--platform=linux/arm64/v8 tensorchord/pgvecto-rs:pg14-v0.2.0
