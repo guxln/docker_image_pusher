@@ -8,3 +8,4 @@ xhofe/alist:latest
 --platform=linux/arm64/v8 tensorchord/pgvecto-rs:pg14-v0.2.0
 --platform=linux/arm64/v8 jc21/nginx-proxy-manager
 --platform=linux/arm64/v8 chishin/nginx-proxy-manager-zh
+--platform=linux/arm64/v8 jeessy/ddns-go:latest
