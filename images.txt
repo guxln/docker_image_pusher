@@ -14,7 +14,5 @@ ubuntu:14.04
 --platform=linux/arm64/v8 seafileltd/seafile-mc:11.0-latest
 --platform=linux/arm64/v8 mariadb:10.11
 --platform=linux/arm64/v8 memcached:1.6.18
---platform=linux/arm64/v8 docker.seafile.top/seafileltd/mariadb:10.11
---platform=linux/arm64/v8 docker.seafile.top/seafileltd/memcached:1.6.18
---platform=linux/arm64/v8 docker.seafile.top/seafileltd/elasticsearch:8.6.2
-#--platform=linux/arm64/v8 docker.seafile.top/seafileltd/seafile-pro-mc:11.0-latest
+--platform=linux/arm64/v8 elasticsearch:8.6.2
+--platform=linux/arm64/v8 seafileltd/seafile-pro-mc:11.0-latest
