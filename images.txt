@@ -11,3 +11,6 @@ ubuntu:14.04
 --platform=linux/arm64/v8 chishin/nginx-proxy-manager-zh
 --platform=linux/arm64/v8 jeessy/ddns-go:latest
 --platform=linux/arm64/v8 joyqi/typecho:nightly-php8.2-apache
+--platform=linux/arm64/v8 seafileltd/seafile-mc:12.0-latest
+--platform=linux/arm64/v8 mariadb:10.11
+--platform=linux/arm64/v8 memcached:1.6.18
