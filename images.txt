@@ -8,6 +8,7 @@ memcached:1.6.18
 elasticsearch:8.6.2
 seafileltd/seafile-pro-mc:11.0-latest
 seafileltd/seafile-mc:11.0-latest
+jellyfin:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 --platform=linux/arm64/v8 redis:6.2-alpine
