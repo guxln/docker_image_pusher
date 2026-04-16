@@ -10,6 +10,7 @@ seafileltd/seafile-pro-mc:11.0-latest
 seafileltd/seafile-mc:11.0-latest
 redis:6.2-alpine
 tensorchord/pgvecto-rs:pg14-v0.2.0
+fatedier/frpc:v0.68.0
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 --platform=linux/arm64/v8 redis:6.2-alpine
